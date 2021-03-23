@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 app.use(express.static('.'));
 
-const YOUR_DOMAIN = 'http://localhost:4242';
+const YOUR_DOMAIN = 'https://impala36.github.io/Jun-Japanese-Online/';
 
 app.post('/create-checkout-session', async (req, res) => {
   const session = await stripe.checkout.sessions.create({
