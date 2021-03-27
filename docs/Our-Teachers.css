@@ -3,11 +3,11 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 853px;
+  min-height: 761px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 60px;
+  margin-top: 21px;
   margin-bottom: 0;
 }
 
@@ -63,8 +63,8 @@
 }
 
 .u-section-1 .u-layout-wrap-2 {
-  margin-top: 0;
-  margin-bottom: 60px;
+  margin-top: 1px;
+  margin-bottom: 21px;
 }
 
 .u-section-1 .u-layout-cell-3 {
@@ -182,11 +182,11 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 587px;
+    min-height: 1084px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 227px;
+    min-height: 461px;
   }
 
   .u-section-1 .u-image-1 {
@@ -195,23 +195,15 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-1 .u-group-1 {
-    margin-top: 135px;
+    min-height: 461px;
   }
 
   .u-section-1 .u-layout-cell-3 {
-    min-height: 100px;
-  }
-
-  .u-section-1 .u-group-2 {
-    margin-top: 135px;
+    min-height: 409px;
   }
 
   .u-section-1 .u-layout-cell-4 {
-    min-height: 227px;
+    min-height: 409px;
   }
 
   .u-section-1 .u-image-2 {
@@ -222,11 +214,15 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1015px;
+    min-height: 1709px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 22px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 341px;
+    min-height: 221px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -234,8 +230,8 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-group-1 {
-    margin-top: 356px;
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 392px;
   }
 
   .u-section-1 .u-container-layout-3 {
@@ -243,8 +239,12 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-group-2 {
-    margin-top: 356px;
+  .u-section-1 .u-layout-wrap-2 {
+    margin-bottom: 22px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 439px;
   }
 
   .u-section-1 .u-container-layout-5 {
@@ -253,7 +253,7 @@
   }
 
   .u-section-1 .u-layout-cell-4 {
-    min-height: 341px;
+    min-height: 150px;
   }
 
   .u-section-1 .u-container-layout-6 {
@@ -268,18 +268,18 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 215px;
+    min-height: 261px;
   }
 
-  .u-section-1 .u-group-1 {
-    margin-top: 415px;
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 348px;
   }
 
-  .u-section-1 .u-group-2 {
-    margin-top: 415px;
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 275px;
   }
 
   .u-section-1 .u-layout-cell-4 {
-    min-height: 215px;
+    min-height: 94px;
   }
 }
