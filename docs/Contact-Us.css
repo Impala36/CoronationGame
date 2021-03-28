@@ -1,6 +1,6 @@
 .u-section-1 {
   background-image: none;
-  min-height: 638px;
+  min-height: 644px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -9,7 +9,7 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 318px;
+  min-height: 324px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -34,6 +34,7 @@
   background-image: none;
   align-self: center;
   text-decoration: underline !important;
+  font-weight: 400;
   margin: 20px auto 0;
   padding: 0;
 }
@@ -44,6 +45,7 @@
 }
 
 .u-section-1 .u-btn-2 {
+  font-weight: 400;
   padding: 0;
 }
 
@@ -105,7 +107,7 @@
   width: 80px;
   background-image: none;
   color: rgb(153, 153, 153) !important;
-  margin: 0 auto 0 80px;
+  margin: 36px auto 0 80px;
 }
 
 .u-section-1 .u-icon-4 {
@@ -123,8 +125,10 @@
   margin: 30px -1px 0;
 }
 
-.u-section-1 .u-text-6 {
-  margin: 30px -1px 0;
+.u-section-1 .u-btn-3 {
+  font-weight: 400;
+  margin: 20px auto 0;
+  padding: 0;
 }
 
 .u-section-1 .u-image-3 {
@@ -143,7 +147,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 262px;
+    min-height: 267px;
   }
 
   .u-section-1 .u-icon-1 {
@@ -188,7 +192,7 @@
   }
 
   .u-section-1 .u-layout-cell-5 {
-    min-height: 263px;
+    min-height: 264px;
   }
 
   .u-section-1 .u-icon-3 {
@@ -205,11 +209,6 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-6 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   .u-section-1 .u-image-3 {
     min-height: 264px;
   }
@@ -221,12 +220,17 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 352px;
   }
 
   .u-section-1 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: -33px;
+    margin-right: -33px;
   }
 
   .u-section-1 .u-image-1 {
@@ -256,7 +260,7 @@
   }
 
   .u-section-1 .u-icon-3 {
-    margin-top: 0;
+    margin-top: 36px;
     margin-left: 10px;
   }
 
@@ -274,9 +278,18 @@
     min-height: 1649px;
   }
 
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-left: 50px;
     padding-right: 50px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-image-1 {

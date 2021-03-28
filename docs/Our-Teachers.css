@@ -1,5 +1,6 @@
 .u-section-1 {
-  background-image: url("images/default-image.jpg");
+  background-image: url("images/mt-fuji.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -24,7 +25,8 @@
   background-position: 50% 50%;
   width: 300px;
   height: 300px;
-  background-image: url("images/billionphotos-1896073-min.png");
+  background-image: url("images/Jason.jpg");
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 0 auto;
 }
 
@@ -114,7 +116,8 @@
   background-position: 50% 50%;
   width: 300px;
   height: 300px;
-  background-image: url("images/pexelsphoto3672599.jpeg");
+  background-image: url("images/Jun.jpg");
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 0 auto;
 }
 
