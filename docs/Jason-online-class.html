@@ -12,6 +12,9 @@
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.10.2, nicepage.com">
+    <script type="text/javascript"> var onloadCallback = function() {
+		alert("grecaptcha is ready!");
+	  }; </script>
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     
     
@@ -173,9 +176,9 @@
                 </div>
               </div>
               <div class="u-align-left u-container-style u-custom-color-1 u-layout-cell u-size-20 u-layout-cell-3">
-                <div class="u-container-layout u-container-layout-3">
+                <div class="u-container-layout u-valign-middle u-container-layout-3">
                   <div class="u-form u-form-1">
-                    <form action="https://formspree.io/f/mnqlakeg" method="POST" class="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form" style="padding: 15px" source="custom" name="Jason-online-class">
+                    <form action="https://formspree.io/f/mnqlakeg" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" style="padding: 15px" source="custom" name="Jason-online-class">
                       <div class="u-form-group u-form-name">
                         <label for="name-558c" class="u-form-control-hidden u-label">Name</label>
                         <input type="text" placeholder="Please enter your name" id="name-558c" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
@@ -185,9 +188,9 @@
                         <input type="tel" pattern="\+?\d{0,3}[\s\(\-]?([0-9]{2,3})[\s\)\-]?([\s\-]?)([0-9]{3})[\s\-]?([0-9]{2})[\s\-]?([0-9]{2})" placeholder="Please enter your phone number" id="phone-b6f5" name="phone" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="">
                       </div>
                       <div class="u-form-group u-form-select u-form-group-3">
-                        <label for="select-2a1b" class="u-form-control-hidden u-label">Select</label>
+                        <label for="select-2a1b" class="u-label">eg. +6512345678</label>
                         <div class="u-form-select-wrapper">
-                          <select id="select-2a1b" name="select" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
+                          <select id="select-2a1b" name="course-jason-online" class="u-border-1 u-border-grey-30 u-input u-input-rectangle" required="required">
                             <option value="Basic 1">Basic 1</option>
                           </select>
                           <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret"><path fill="currentColor" d="M4 8L0 4h8z"></path></svg>
@@ -196,7 +199,7 @@
                       <div class="u-form-group u-form-select u-form-group-4">
                         <label for="select-a533" class="u-form-control-hidden u-label">Select</label>
                         <div class="u-form-select-wrapper">
-                          <select id="select-a533" name="select-1" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
+                          <select id="select-a533" name="time-slot-jason-online" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
                             <option value="12pm-2pm">12pm-2pm</option>
                             <option value="2pm-4pm">2pm-4pm</option>
                             <option value="4pm-6pm">4pm-6pm</option>
@@ -210,7 +213,7 @@
                       <div class="u-form-group u-form-select u-form-group-5">
                         <label for="select-7640" class="u-form-control-hidden u-label">Select</label>
                         <div class="u-form-select-wrapper">
-                          <select id="select-7640" name="select-2" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
+                          <select id="select-7640" name="day-jason-online" class="u-border-1 u-border-grey-30 u-input u-input-rectangle">
                             <option value="Tuesdays">Tuesdays</option>
                             <option value="Thursdays">Thursdays</option>
                             <option value="Fridays">Fridays</option>
@@ -220,11 +223,11 @@
                         </div>
                       </div>
                       <div class="u-align-center u-form-group u-form-submit">
-                        <a href="#" class="u-btn u-btn-submit u-button-style">Confirm Enrolment</a>
+                        <a href="#" class="g-recaptcha u-btn u-btn-submit u-button-style">Confirm Enrolment</a>
                         <input type="submit" value="submit" class="u-form-control-hidden">
                       </div>
-                      <div class="u-form-send-message u-form-send-success">Thank you! Your message has been sent.</div>
-                      <div class="u-form-send-error u-form-send-message">Unable to send your message. Please fix errors then try again.</div>
+                      <div class="u-form-send-message u-form-send-success">Thank you! Your enrolment has been confirmed.</div>
+                      <div class="u-form-send-error u-form-send-message">Thank you! Your message has been sent.</div>
                       <input type="hidden" value="" name="recaptchaResponse">
                     </form>
                   </div>

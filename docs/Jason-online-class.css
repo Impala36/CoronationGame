@@ -74,7 +74,7 @@
 .u-section-1 .u-form-1 {
   height: 384px;
   width: 320px;
-  margin: 15px 0 0;
+  margin: 0;
 }
 
 .u-section-1 .u-form-group-2 {
@@ -197,6 +197,7 @@
   }
 
   .u-section-1 .u-form-1 {
+    width: 480px;
     margin-top: -7px;
   }
 }
@@ -217,5 +218,7 @@
 
   .u-section-1 .u-form-1 {
     margin-top: 218px;
+    margin-right: -20px;
+    width: 320px;
   }
 }
