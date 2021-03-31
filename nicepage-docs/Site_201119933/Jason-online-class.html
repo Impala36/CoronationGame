@@ -16,15 +16,17 @@
         });
       };
 </script>
-<script type="text/javascript">    function checkForm(){
-              if(!document.getElementById("g-recaptcha-response").value){
-            alert("Please prove that you're not a robot");
-            return false;
-        }else{
-            document.getElementById("submit_button").type = "submit";                
-            return true;
-        }
+<script type="text/javascript">
+	var form = document.getElementById("form");
+	if(form){
+form.addEventListener("submit", function(event){
+    if (grecaptcha.getResponse() === '') {                            
+      event.preventDefault();
+      alert('Please check the recaptcha');
     }
+  }
+, false);
+	}
  </script></head>
 <body class="u-body" data-style="blank" data-posts="" data-global-section-properties="{&quot;colorings&quot;:{&quot;light&quot;:[&quot;clean&quot;],&quot;colored&quot;:[&quot;clean&quot;],&quot;dark&quot;:[&quot;dark&quot;]}}" data-source="blank" data-page-sections-style="[]" data-page-coloring-types="{&quot;light&quot;:[&quot;clean&quot;],&quot;colored&quot;:[&quot;clean&quot;],&quot;dark&quot;:[&quot;dark&quot;]}" data-page-category="&quot;Basic&quot;" data-back-link="templates" data-back-link-title="Template" data-wp-back-link="wordpress-themes" data-wp-back-link-title="Best WordPress Theme" data-jm-back-link="joomla-templates" data-jm-back-link-title="Joomla Templates" data-created-with-link="static-site-generator" data-created-with-title="Static Site Generator" data-wp-created-with-link="wordpress-website-builder" data-wp-created-with-title="WordPress Editor" data-jm-created-with-link="joomla-page-builder" data-jm-created-with-title="Joomla Template Creator"><section class="u-clearfix u-expanded-width-xl u-image u-shading u-block-4994-1" custom-posts-hash="[]" data-style="blank" data-section-properties="{&quot;margin&quot;:&quot;none&quot;,&quot;stretch&quot;:true}" id="carousel_ae32" data-id="4994" data-source="fix" data-image-width="1083" data-image-height="609">
         
@@ -608,7 +610,7 @@
                                         
                                         
                                     <div class="u-form u-block-4994-42">
-      <form action="https://formspree.io/f/mnqlakeg" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" style="padding: 15px" source="custom" name="Jason-online-class">
+      <form action="https://formspree.io/f/mnqlakeg" method="POST" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" style="padding: 15px" source="custom" name="Jason-online-class" id="form">
         
         
         
@@ -631,7 +633,7 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="12" version="1" class="u-caret"><path fill="currentColor" d="M4 8L0 4h8z"></path></svg>
     </div></div><div class="u-align-center u-form-group u-form-submit u-block-4994-52">
 		<div id="review_recaptcha" class="u-align-center"></div>
-          <a href="#" onclick="checkForm()" id="submit_button" class="g-recaptcha u-btn u-btn-submit u-button-style u-hover-palette-1-light-2 u-palette-1-base u-block-4994-53" data-sitekey="6LfGNJYaAAAAALcuE3Gi022eWD4W-R_BgS7JdCeF" data-callback="onSubmit" data-action="submit">Confirm Enrolment</a>
+          <a href="#" class="g-recaptcha u-btn u-btn-submit u-button-style u-hover-palette-1-light-2 u-palette-1-base u-block-4994-53" data-sitekey="6LfGNJYaAAAAALcuE3Gi022eWD4W-R_BgS7JdCeF" data-callback="onSubmit" data-action="submit">Confirm Enrolment</a>
           <input type="submit" value="submit" class="u-form-control-hidden">
         </div>
         <div class="u-form-send-message u-form-send-success">Thank you! Your enrolment has been confirmed.</div>
