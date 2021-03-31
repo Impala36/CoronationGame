@@ -72,8 +72,9 @@
 }
 
 .u-section-1 .u-form-1 {
-  height: 79px;
-  margin: 0 auto;
+  height: 384px;
+  width: 320px;
+  margin: 15px 0 0;
 }
 
 .u-section-1 .u-form-group-2 {
@@ -133,8 +134,7 @@
   }
 
   .u-section-1 .u-form-1 {
-    margin-right: initial;
-    margin-left: initial;
+    width: 253px;
   }
 }
 
@@ -178,8 +178,7 @@
 
   .u-section-1 .u-form-1 {
     margin-top: -220px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 180px;
   }
 }
 
@@ -199,8 +198,6 @@
 
   .u-section-1 .u-form-1 {
     margin-top: -7px;
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 
@@ -220,7 +217,5 @@
 
   .u-section-1 .u-form-1 {
     margin-top: 218px;
-    margin-right: initial;
-    margin-left: initial;
   }
 }
