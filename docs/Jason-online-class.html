@@ -12,9 +12,12 @@
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.10.2, nicepage.com">
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async="async" defer="defer"></script>
     <script type="text/javascript"> var onloadCallback = function() {
-    alert("grecaptcha is ready!");
-  }; </script>
+        grecaptcha.render('review_recaptcha', {
+          'sitekey' : '6LfGNJYaAAAAALcuE3Gi022eWD4W-R_BgS7JdCeF'
+        });
+      }; </script>
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     
     
@@ -55,17 +58,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-WWCJWY498H');
-</script>
-<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
-        async defer>
-</script>
-<script type="text/javascript">
-      var onloadCallback = function() {
-        grecaptcha.render('review_recaptcha', {
-          'sitekey' : '6LfGNJYaAAAAALcuE3Gi022eWD4W-R_BgS7JdCeF'
-        });
-      };
-</script><script src="https://www.google.com/recaptcha/api.js?render=6LfGNJYaAAAAALcuE3Gi022eWD4W-R_BgS7JdCeF"></script>
+</script><script src="https://www.google.com/recaptcha/api.js?render=6LeIaZYaAAAAALgBD8OFuP_a63NxoZC0zJChCwlu"></script>
     <script>
 ( function( grecaptcha, sitekey, actions ) {
 
@@ -107,7 +100,7 @@
 	);
 } )(
 	grecaptcha,
-	'6LfGNJYaAAAAALcuE3Gi022eWD4W-R_BgS7JdCeF',
+	'6LeIaZYaAAAAALgBD8OFuP_a63NxoZC0zJChCwlu',
 	{"contact":"contact"}
 );
     </script>
@@ -163,7 +156,7 @@
           <a href="index.html" data-page-id="75098416" c="" class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-color u-text-hover-palette-1-light-1 u-btn-1">Jun Japanese Online</a>
         </h3>
       </div></header>
-    <section class="u-clearfix u-expanded-width-xl u-image u-section-1" id="carousel_ae32" data-image-width="1083" data-image-height="609">
+    <section class="u-clearfix u-expanded-width-xl u-image u-shading u-section-1" id="carousel_ae32" data-image-width="1083" data-image-height="609">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
           <div class="u-gutter-0 u-layout">
@@ -233,8 +226,8 @@
                         </div>
                       </div>
                       <div class="u-align-center u-form-group u-form-submit">
-                        <div id="review_recaptcha"></div>
-                        <a href="#" class="g-recaptcha u-btn u-btn-submit u-button-style">Confirm Enrolment</a>
+                        <div id="review_recaptcha" class="u-align-center"></div>
+                        <a href="#" class="g-recaptcha u-btn u-btn-submit u-button-style u-hover-palette-1-light-2 u-palette-1-base u-btn-1">Confirm Enrolment</a>
                         <input type="submit" value="submit" class="u-form-control-hidden">
                       </div>
                       <div class="u-form-send-message u-form-send-success">Thank you! Your enrolment has been confirmed.</div>
