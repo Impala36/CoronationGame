@@ -146,7 +146,7 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 348px;
+    min-height: 100px;
   }
 
   .u-section-1 .u-form-1 {
@@ -173,10 +173,6 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 338px;
-  }
-
   .u-section-1 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
@@ -197,10 +193,6 @@
   .u-section-1 .u-layout-wrap-1 {
     width: 340px;
     margin-left: auto;
-  }
-
-  .u-section-1 .u-layout-cell-2 {
-    min-height: 213px;
   }
 
   .u-section-1 .u-form-1 {
