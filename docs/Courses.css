@@ -29,7 +29,6 @@
   width: 503px;
   min-height: 371px;
   background-image: none;
-  height: auto;
   margin: 200px auto 0 0;
 }
 
@@ -293,7 +292,6 @@
     margin-top: 30px;
     margin-right: 0;
     margin-left: auto;
-    height: auto;
   }
 
   .u-section-1 .u-btn-1 {
