@@ -114,7 +114,7 @@
 }
 
 .u-section-1 .u-layout-cell-7 {
-  min-height: 531px;
+  min-height: 585px;
   background-image: none;
 }
 
@@ -154,12 +154,16 @@
   border-style: none;
 }
 
+.u-section-1 .u-text-6 {
+  margin: -8px 15px 0;
+}
+
 .u-section-1 .u-btn-3 {
   font-size: 1rem;
   border-style: none;
   background-image: none;
   font-weight: bold;
-  margin: 0 auto 0 15px;
+  margin: 10px auto 0 15px;
   padding: 8px 18px;
 }
 
@@ -210,13 +214,19 @@
   }
 
   .u-section-1 .u-layout-cell-7 {
-    min-height: 596px;
+    min-height: 482px;
   }
 
   .u-section-1 .u-form-1 {
     width: 273px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: auto;
+    margin-left: 18px;
+    margin-right: 18px;
   }
 
   .u-section-1 .u-btn-3 {
@@ -262,7 +272,7 @@
   }
 
   .u-section-1 .u-layout-cell-7 {
-    min-height: 100px;
+    min-height: 556px;
   }
 
   .u-section-1 .u-form-1 {
@@ -288,6 +298,10 @@
     min-height: 189px;
   }
 
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 370px;
+  }
+
   .u-section-1 .u-icon-1 {
     margin-top: 28px;
     margin-right: auto;
@@ -298,14 +312,12 @@
   }
 
   .u-section-1 .u-icon-2 {
-    margin-top: 26px;
-    margin-left: 8px;
+    margin-top: 24px;
   }
 
   .u-section-1 .u-text-5 {
-    margin-top: -33px;
-    margin-right: 8px;
-    margin-left: 63px;
+    margin-top: -30px;
+    margin-right: 16px;
   }
 
   .u-section-1 .u-layout-cell-5 {
@@ -316,8 +328,17 @@
     min-height: 404px;
   }
 
+  .u-section-1 .u-layout-cell-7 {
+    min-height: 558px;
+  }
+
   .u-section-1 .u-form-1 {
     width: 520px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 15px;
+    margin-right: 15px;
   }
 
   .u-section-1 .u-btn-3 {
@@ -338,6 +359,10 @@
     min-height: 119px;
   }
 
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
   .u-section-1 .u-icon-1 {
     margin-top: 20px;
   }
@@ -353,7 +378,6 @@
   .u-section-1 .u-text-5 {
     margin-top: -42px;
     margin-right: 0;
-    margin-left: 55px;
   }
 
   .u-section-1 .u-layout-cell-5 {
@@ -364,11 +388,16 @@
     min-height: 254px;
   }
 
+  .u-section-1 .u-layout-cell-7 {
+    min-height: 600px;
+  }
+
   .u-section-1 .u-form-1 {
     width: 320px;
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: -1px;
+    margin-top: 9px;
+    margin-bottom: -10px;
   }
 }
