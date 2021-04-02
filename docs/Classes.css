@@ -3296,6 +3296,7 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
+    height: auto;
   }
 
   .u-section-2 .u-layout-cell-23 {
@@ -3647,6 +3648,13 @@
 
   .u-section-2 .u-layout-cell-22 {
     min-height: 100px;
+  }
+
+  .u-section-2 .u-table-11 {
+    height: 314px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-table-12 {
