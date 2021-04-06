@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("images/modern-interior.jpg");
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.25), rgba(255,255,255,0.25));
   background-position: 50% 50%;
 }
 
@@ -25,7 +25,6 @@
 .u-section-1 .u-image-1 {
   width: 250px;
   height: 250px;
-  background-image: url("images/Jun.jpg");
   background-position: 50% 50%;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 0 auto;
@@ -280,6 +279,10 @@
 
   .u-section-1 .u-layout-cell-5 {
     min-height: 211px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-bottom: 0;
   }
 
   .u-section-1 .u-layout-cell-6 {
