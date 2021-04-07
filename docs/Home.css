@@ -1405,6 +1405,7 @@
   min-height: 50px;
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
   margin: 15px auto 0 0;
 }
 
@@ -1426,6 +1427,7 @@
 .u-section-5 .u-layout-cell-1 {
   min-height: 289px;
   background-image: none;
+  animation-duration: 1000ms;
 }
 
 .u-section-5 .u-container-layout-2 {
@@ -1477,6 +1479,7 @@
 .u-section-5 .u-layout-cell-2 {
   min-height: 483px;
   background-image: none;
+  animation-duration: 1000ms;
 }
 
 .u-section-5 .u-container-layout-3 {
@@ -1613,6 +1616,7 @@
 
 .u-section-5 .u-layout-cell-3 {
   min-height: 211px;
+  animation-duration: 1000ms;
 }
 
 .u-section-5 .u-container-layout-4 {
@@ -1747,6 +1751,7 @@
 
 .u-section-5 .u-layout-cell-4 {
   min-height: 211px;
+  animation-duration: 1000ms;
 }
 
 .u-section-5 .u-container-layout-5 {
@@ -2138,6 +2143,7 @@
   min-height: 50px;
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
   margin: 50px auto 0 0;
 }
 
@@ -2160,6 +2166,7 @@
 .u-section-6 .u-layout-cell-1 {
   min-height: 485px;
   background-image: none;
+  animation-duration: 1000ms;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -2211,6 +2218,7 @@
 .u-section-6 .u-layout-cell-2 {
   min-height: 485px;
   background-image: none;
+  animation-duration: 1000ms;
 }
 
 .u-section-6 .u-container-layout-3 {
@@ -2318,6 +2326,7 @@
 
 .u-section-6 .u-layout-cell-3 {
   min-height: 412px;
+  animation-duration: 1000ms;
 }
 
 .u-section-6 .u-container-layout-4 {
@@ -2454,6 +2463,7 @@
 
 .u-section-6 .u-layout-cell-4 {
   min-height: 211px;
+  animation-duration: 1000ms;
 }
 
 .u-section-6 .u-container-layout-5 {
@@ -2844,6 +2854,7 @@
   min-height: 50px;
   background-image: none;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
   margin: 50px auto 0 0;
 }
 
@@ -2866,6 +2877,7 @@
 .u-section-7 .u-layout-cell-1 {
   min-height: 289px;
   background-image: none;
+  animation-duration: 1000ms;
 }
 
 .u-section-7 .u-container-layout-2 {
@@ -2917,6 +2929,7 @@
 .u-section-7 .u-layout-cell-2 {
   min-height: 289px;
   background-image: none;
+  animation-duration: 1000ms;
 }
 
 .u-section-7 .u-container-layout-3 {
@@ -2994,6 +3007,7 @@
 
 .u-section-7 .u-layout-cell-3 {
   min-height: 211px;
+  animation-duration: 1000ms;
 }
 
 .u-section-7 .u-container-layout-4 {
@@ -3134,6 +3148,7 @@
 
 .u-section-7 .u-layout-cell-4 {
   min-height: 419px;
+  animation-duration: 1000ms;
 }
 
 .u-section-7 .u-container-layout-5 {
