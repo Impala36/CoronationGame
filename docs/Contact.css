@@ -68,7 +68,7 @@
 .u-section-1 .u-form-1 {
   height: 319px;
   width: 510px;
-  margin: 0;
+  margin: 10px 0 0;
 }
 
 .u-section-1 .u-form-group-1 {
@@ -310,6 +310,7 @@
 }
 
 .u-section-2 .u-image-1 {
+  background-image: url("images/japan-holiday-photo.JPG");
   background-position: 50% 50%;
 }
 
@@ -359,6 +360,7 @@
 }
 
 .u-section-2 .u-image-2 {
+  background-image: url("images/Classroom-6a-2.jpg");
   background-position: 50% 50%;
 }
 
