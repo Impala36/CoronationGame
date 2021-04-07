@@ -928,6 +928,7 @@
 .u-section-2 .u-layout-cell-12 {
   min-height: 310px;
   pointer-events: auto;
+  animation-duration: 1000ms;
 }
 
 .u-section-2 .u-container-layout-12 {
