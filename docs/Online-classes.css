@@ -125,7 +125,7 @@
 .u-section-1 .u-form-1 {
   height: 444px;
   width: 347px;
-  margin: 0;
+  margin: 0 -5px;
 }
 
 .u-section-1 .u-form-group-2 {
@@ -370,7 +370,7 @@
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-bottom: 49px;
+    margin-bottom: 50px;
   }
 
   .u-section-1 .u-image-1 {
@@ -411,7 +411,10 @@
   }
 
   .u-section-1 .u-form-1 {
-    width: 320px;
+    height: 500px;
+    width: 310px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-btn-2 {
