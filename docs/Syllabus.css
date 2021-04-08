@@ -253,6 +253,7 @@
 .u-section-1 .u-shape-1 {
   width: 30px;
   height: 120px;
+  animation-duration: 1000ms;
   margin: -400px auto 0 421px;
 }
 
@@ -427,7 +428,6 @@
   }
 
   .u-section-1 .u-shape-1 {
-    animation-duration: 1000ms;
     margin-left: 263px;
   }
 
