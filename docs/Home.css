@@ -1345,9 +1345,21 @@
     width: auto;
   }
 
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 67px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 67px;
+  }
+
   .u-section-4 .u-text-3 {
     margin-top: -45px;
     margin-right: auto;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 67px;
   }
 
   .u-section-4 .u-text-4 {
