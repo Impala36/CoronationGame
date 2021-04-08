@@ -2,4 +2,4 @@
 
 * This repository holds the files used by the Jun Japanese Online website.
   
-* The website is found here: **[Jun Japanese Online](https://impala36.github.io/Jun-Japanese-Online/)**.
+* The website is found here: **[Jun Japanese Online](https://junjapaneseonline.com/)**.
