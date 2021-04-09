@@ -2021,6 +2021,7 @@
   background-image: none;
   font-size: 1rem;
   line-height: 24px;
+  font-weight: normal;
 }
 
 .u-section-5 .u-icon-6 {
@@ -2292,10 +2293,6 @@
   .u-section-5 .u-table-cell-122 {
     font-weight: 700;
     font-size: 1.13333rem;
-  }
-
-  .u-section-5 .u-table-cell-130 {
-    font-weight: normal;
   }
 
   .u-section-5 .u-layout-cell-4 {
@@ -3175,6 +3172,7 @@
   background-image: none;
   font-size: 1rem;
   line-height: 24px;
+  font-weight: normal;
 }
 
 .u-section-6 .u-icon-6 {
@@ -3408,10 +3406,6 @@
   .u-section-6 .u-table-cell-46 {
     font-weight: 700;
     font-size: 1.13333rem;
-  }
-
-  .u-section-6 .u-table-cell-54 {
-    font-weight: normal;
   }
 
   .u-section-6 .u-layout-cell-4 {
@@ -4255,6 +4249,7 @@
 .u-section-7 .u-table-cell-58 {
   background-image: none;
   font-size: 1rem;
+  font-weight: normal;
 }
 
 .u-section-7 .u-table-cell-59 {
@@ -4278,6 +4273,7 @@
 .u-section-7 .u-table-cell-62 {
   background-image: none;
   font-size: 1rem;
+  font-weight: normal;
 }
 
 .u-section-7 .u-table-cell-63 {
@@ -4504,14 +4500,6 @@
 
   .u-section-7 .u-table-cell-50 {
     font-size: 1.13333rem;
-  }
-
-  .u-section-7 .u-table-cell-58 {
-    font-weight: normal;
-  }
-
-  .u-section-7 .u-table-cell-62 {
-    font-weight: normal;
   }
 
   .u-section-7 .u-layout-cell-4 {
