@@ -1855,7 +1855,8 @@
 .u-section-5 .u-table-cell-106 {
   background-image: none;
   line-height: 1.2;
-  font-size: 1rem;
+  font-size: 1.26667rem;
+  font-weight: 600;
 }
 
 .u-section-5 .u-icon-1 {
@@ -1866,8 +1867,8 @@
 .u-section-5 .u-table-cell-107 {
   background-image: none;
   font-size: 1.26667rem;
-  font-weight: 700;
   line-height: 1.2;
+  font-weight: 600;
 }
 
 .u-section-5 .u-icon-2 {
@@ -1878,7 +1879,7 @@
   background-image: none;
   font-size: 1.26667rem;
   line-height: 1.2;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .u-section-5 .u-icon-3 {
@@ -2293,6 +2294,10 @@
     font-size: 1.13333rem;
   }
 
+  .u-section-5 .u-table-cell-130 {
+    font-weight: normal;
+  }
+
   .u-section-5 .u-layout-cell-4 {
     min-height: 342px;
   }
@@ -2627,18 +2632,19 @@
 
   .u-section-5 .u-table-cell-130 {
     line-height: 1.2;
+    font-weight: 600;
   }
 
   .u-section-5 .u-table-cell-131 {
     font-size: 1.26667rem;
-    font-weight: 700;
     line-height: 1.2;
+    font-weight: 600;
   }
 
   .u-section-5 .u-table-cell-132 {
     font-size: 1.26667rem;
-    font-weight: 700;
     line-height: 1.2;
+    font-weight: 600;
   }
 
   .u-section-5 .u-table-cell-133 {
@@ -2998,6 +3004,7 @@
   background-image: none;
   font-size: 1.26667rem;
   line-height: 1.2;
+  font-weight: 600;
 }
 
 .u-section-6 .u-icon-1 {
@@ -3008,8 +3015,8 @@
 .u-section-6 .u-table-cell-31 {
   background-image: none;
   font-size: 1.26667rem;
-  font-weight: 700;
   line-height: 1.2;
+  font-weight: 600;
 }
 
 .u-section-6 .u-icon-2 {
@@ -3020,8 +3027,8 @@
 .u-section-6 .u-table-cell-32 {
   background-image: none;
   font-size: 1.26667rem;
-  font-weight: 700;
   line-height: 1.2;
+  font-weight: 600;
 }
 
 .u-section-6 .u-icon-3 {
@@ -3403,6 +3410,10 @@
     font-size: 1.13333rem;
   }
 
+  .u-section-6 .u-table-cell-54 {
+    font-weight: normal;
+  }
+
   .u-section-6 .u-layout-cell-4 {
     min-height: 192px;
   }
@@ -3687,18 +3698,19 @@
   .u-section-6 .u-table-cell-54 {
     font-size: 1.26667rem;
     line-height: 1.2;
+    font-weight: 600;
   }
 
   .u-section-6 .u-table-cell-55 {
     font-size: 1.26667rem;
-    font-weight: 700;
     line-height: 1.2;
+    font-weight: 600;
   }
 
   .u-section-6 .u-table-cell-56 {
     font-size: 1.26667rem;
-    font-weight: 700;
     line-height: 1.2;
+    font-weight: 600;
   }
 
   .u-section-6 .u-table-cell-57 {
@@ -4066,18 +4078,19 @@
 .u-section-7 .u-table-cell-30 {
   background-image: none;
   font-size: 1.26667rem;
+  font-weight: 600;
 }
 
 .u-section-7 .u-table-cell-31 {
   background-image: none;
   font-size: 1.26667rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .u-section-7 .u-table-cell-32 {
   background-image: none;
   font-size: 1.26667rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .u-section-7 .u-table-cell-33 {
@@ -4089,18 +4102,19 @@
 .u-section-7 .u-table-cell-34 {
   background-image: none;
   font-size: 1.26667rem;
+  font-weight: 600;
 }
 
 .u-section-7 .u-table-cell-35 {
   background-image: none;
   font-size: 1.26667rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .u-section-7 .u-table-cell-36 {
   background-image: none;
   font-size: 1.26667rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .u-section-7 .u-table-cell-37 {
@@ -4492,6 +4506,14 @@
     font-size: 1.13333rem;
   }
 
+  .u-section-7 .u-table-cell-58 {
+    font-weight: normal;
+  }
+
+  .u-section-7 .u-table-cell-62 {
+    font-weight: normal;
+  }
+
   .u-section-7 .u-layout-cell-4 {
     min-height: 142px;
   }
@@ -4750,16 +4772,17 @@
 
   .u-section-7 .u-table-cell-58 {
     font-size: 1.13333rem;
+    font-weight: 600;
   }
 
   .u-section-7 .u-table-cell-59 {
     font-size: 1.13333rem;
-    font-weight: 700;
+    font-weight: 600;
   }
 
   .u-section-7 .u-table-cell-60 {
     font-size: 1.13333rem;
-    font-weight: 700;
+    font-weight: 600;
   }
 
   .u-section-7 .u-table-cell-61 {
@@ -4768,16 +4791,17 @@
 
   .u-section-7 .u-table-cell-62 {
     font-size: 1.13333rem;
+    font-weight: 600;
   }
 
   .u-section-7 .u-table-cell-63 {
     font-size: 1.13333rem;
-    font-weight: 700;
+    font-weight: 600;
   }
 
   .u-section-7 .u-table-cell-64 {
     font-size: 1.13333rem;
-    font-weight: 700;
+    font-weight: 600;
   }
 
   .u-section-7 .u-table-cell-65 {
