@@ -1065,7 +1065,6 @@
   .u-section-4 .u-text-2 {
     margin-top: -40px;
     margin-right: auto;
-    margin-left: 0;
   }
 
   .u-section-4 .u-layout-cell-2 {
@@ -1074,7 +1073,6 @@
 
   .u-section-4 .u-text-3 {
     margin-right: auto;
-    margin-left: 0;
   }
 
   .u-section-4 .u-layout-wrap-2 {
@@ -1360,10 +1358,6 @@
     min-height: 58px;
   }
 
-  .u-section-4 .u-text-2 {
-    margin-left: 50px;
-  }
-
   .u-section-4 .u-layout-cell-2 {
     min-height: 68px;
   }
@@ -1371,7 +1365,6 @@
   .u-section-4 .u-text-3 {
     margin-top: -45px;
     margin-right: auto;
-    margin-left: 50px;
   }
 
   .u-section-4 .u-layout-cell-3 {
