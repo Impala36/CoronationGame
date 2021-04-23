@@ -33493,8 +33493,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-header .u-social-icons-1 {
-    margin-top: 20px;
-    margin-right: 0;
+    margin-right: 38px;
   }
 
   .u-header .u-text-1 {
@@ -33502,11 +33501,15 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 208px;
     margin-left: 45px;
   }
+
+  .u-header .u-icon-6 {
+    margin-top: -36px;
+    margin-bottom: 7px;
+  }
 }
 @media (max-width: 575px) {
   .u-header .u-social-icons-1 {
     margin-right: 43px;
-    margin-left: NaNpx;
   }
 
   .u-header .u-text-1 {
