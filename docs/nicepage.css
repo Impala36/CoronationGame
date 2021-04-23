@@ -33472,41 +33472,51 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-menu-1 {
+    margin-top: 9px;
     margin-right: 0;
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: 20px;
+    margin-top: -28px;
+    margin-right: 43px;
   }
 
   .u-header .u-text-1 {
+    margin-top: -31px;
     margin-right: 383px;
+  }
+
+  .u-header .u-icon-6 {
+    margin-top: -35px;
+    margin-bottom: 6px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-social-icons-1 {
-    margin-top: -31px;
     margin-right: 38px;
   }
 
   .u-header .u-text-1 {
+    margin-top: -31px;
     margin-right: 208px;
     margin-left: 45px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 3447px;
-  }
-
   .u-header .u-social-icons-1 {
-    margin-right: 0;
+    margin-right: 43px;
   }
 
   .u-header .u-text-1 {
     width: 240px;
+    margin-top: -29px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .u-header .u-icon-6 {
+    margin-top: -34px;
+    margin-bottom: 6px;
   }
 }
 .u-footer {
