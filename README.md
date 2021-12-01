@@ -1,5 +1,5 @@
-# Jun Japanese Online
+# CoronationGame
 
-* This repository holds the files used by the Jun Japanese Online website.
+* This repository holds the files used by the Coronation Game website.
   
-* The website is found here: **[Jun Japanese Online](https://junjapaneseonline.com/)**.
+* The website is found here: **[CoronationGame](https://coronationgame.com/)**.
