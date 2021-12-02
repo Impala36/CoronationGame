@@ -51,20 +51,19 @@
 .u-section-1 .u-group-2 {
   width: 517px;
   min-height: 231px;
-  height: auto;
-  margin: 55px auto 59px;
+  margin: 54px auto 60px;
 }
 
 .u-section-1 .u-image-3 {
   width: 231px;
-  left: -64px;
+  left: -38px;
   right: auto;
 }
 
 .u-section-1 .u-image-4 {
   width: 121px;
   height: 121px;
-  margin: 55px auto 0;
+  margin: 55px 175px 0 auto;
 }
 
 .u-section-1 .u-image-5 {
@@ -80,10 +79,6 @@
 
   .u-section-1 .u-sheet-1 {
     min-height: 789px;
-  }
-
-  .u-section-1 .u-group-2 {
-    height: auto;
   }
 }
 
