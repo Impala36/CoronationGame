@@ -35365,13 +35365,14 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 26px;
   min-height: 16px;
-  width: 170px;
-  min-width: 120px;
+  width: 242px;
+  min-width: 172px;
   margin: -31px 0 19px auto;
 }
 
 .u-header .u-icon-1 {
-  color: rgb(140, 158, 255) !important;
+  height: 100%;
+  color: rgb(255, 255, 255) !important;
 }
 
 .u-header .u-icon-2 {
@@ -35379,14 +35380,22 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-icon-3 {
-  color: rgb(255, 255, 255) !important;
+  color: rgb(140, 158, 255) !important;
 }
 
 .u-header .u-icon-4 {
-  color: rgb(255, 69, 0) !important;
+  height: 0;
 }
 
 .u-header .u-icon-5 {
+  color: rgb(255, 255, 255) !important;
+}
+
+.u-header .u-icon-6 {
+  color: rgb(255, 69, 0) !important;
+}
+
+.u-header .u-icon-7 {
   height: 100%;
   color: rgb(210, 34, 21) !important;
 }
