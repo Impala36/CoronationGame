@@ -6,68 +6,42 @@
   min-height: 957px;
 }
 
-.u-section-1 .u-group-1 {
-  width: 614px;
-  min-height: 272px;
-  margin: 99px auto 0;
-}
-
-.u-section-1 .u-image-1 {
-  width: 122px;
-  height: 122px;
-  text-align: center;
-  margin: 22px auto 0;
-}
-
-.u-section-1 .u-image-2 {
-  width: 570px;
-  height: 127px;
-  text-align: center;
-  margin: -11px auto 0;
-}
-
 .u-section-1 .u-text-1 {
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  text-align: center;
-  margin: -13px 0 0;
-}
-
-.u-section-1 .u-text-2 {
   text-shadow: 0px 0px 8px rgba(0,0,0,0.5);
   box-shadow: 0px 0px 0 0 rgba(0,0,0,0);
   font-size: 3rem;
   background-image: none;
   font-weight: 700;
-  margin: 103px auto 0;
+  margin: 81px auto 0;
 }
 
-.u-section-1 .u-text-3 {
+.u-section-1 .u-text-2 {
   text-align: center;
   width: 614px;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 11px auto 0;
+  margin: 404px auto 0;
 }
 
-.u-section-1 .u-group-2 {
+.u-section-1 .u-group-1 {
   width: 517px;
   min-height: 231px;
   margin: 55px auto 59px;
 }
 
-.u-section-1 .u-image-3 {
+.u-section-1 .u-image-1 {
   width: 231px;
   left: -64px;
   right: auto;
 }
 
-.u-section-1 .u-image-4 {
+.u-section-1 .u-image-2 {
   width: 121px;
   height: 121px;
   transition-duration: 0.5s;
   margin: 55px auto 0;
 }
 
-.u-section-1 .u-image-5 {
+.u-section-1 .u-image-3 {
   width: 121px;
   height: 121px;
   transition-duration: 0.5s;
@@ -100,24 +74,11 @@
     min-height: 1034px;
   }
 
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
   .u-section-1 .u-group-1 {
-    width: 540px;
-  }
-
-  .u-section-1 .u-image-2 {
-    width: 540px;
-    height: 120px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: -6px;
-  }
-
-  .u-section-1 .u-text-3 {
-    width: 540px;
-  }
-
-  .u-section-1 .u-group-2 {
     margin-top: 50px;
     margin-right: 0;
     margin-bottom: 60px;
@@ -133,40 +94,27 @@
     min-height: 1105px;
   }
 
-  .u-section-1 .u-group-1 {
-    width: 340px;
-  }
-
-  .u-section-1 .u-image-2 {
-    width: 340px;
-    height: 76px;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: 38px;
+    width: auto;
+    margin-top: 420px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 24px;
     margin-left: 0;
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-3 {
-    width: auto;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-group-2 {
+  .u-section-1 .u-group-1 {
     margin-top: 119px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
-  .u-section-1 .u-image-3 {
+  .u-section-1 .u-image-1 {
     height: 231px;
     left: auto;
     bottom: auto;
@@ -175,29 +123,29 @@
     margin: -143px auto 0;
   }
 
-  .u-section-1 .u-image-4 {
+  .u-section-1 .u-image-2 {
     margin-top: 0;
     margin-left: 38px;
   }
 
-  .u-section-1 .u-image-5 {
+  .u-section-1 .u-image-3 {
     margin-right: 24px;
   }
 }
 
-.u-section-1 .u-image-4 {
+.u-section-1 .u-image-2 {
   transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
 }
 
-.u-section-1 .u-image-4:hover {
+.u-section-1 .u-image-2:hover {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
 }
 
-.u-section-1 .u-image-5 {
+.u-section-1 .u-image-3 {
   transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
 }
 
-.u-section-1 .u-image-5:hover {
+.u-section-1 .u-image-3:hover {
   transform: translateX(0px) translateY(-5px) scale(1) !important;
 } .u-section-2 {
   background-image: url("images/20211016123141_1.jpg");
