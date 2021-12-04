@@ -1,6 +1,5 @@
  .u-section-1 {
   background-image: url("images/20211231119010653_11.png");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -76,6 +75,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 789px;
   }
@@ -122,6 +125,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 28.68% 51.52%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 1105px;
   }
@@ -194,7 +201,6 @@
   transform: translateX(0px) translateY(-5px) scale(1) !important;
 } .u-section-2 {
   background-image: url("images/20211016123141_1.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -365,6 +371,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 100vh;
   }
@@ -740,7 +750,6 @@
   transform: translateX(0px) translateY(-5px) scale(1) !important;
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/steamcover.png");
-  background-position: 50% 50%;
   min-height: 689px;
 }
 
@@ -814,6 +823,7 @@
 
 @media (max-width: 1199px) {
    .u-section-3 {
+    background-position: 50% 50%;
     min-height: 447px;
   }
 
