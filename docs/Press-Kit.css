@@ -49,14 +49,14 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-3 {
-  text-align: left;
-  margin: -803px 112px 0 364px;
-}
-
 .u-section-1 .u-btn-7 {
   background-image: none;
   padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-align: left;
+  margin: -778px 112px 0 364px;
 }
 
 .u-section-1 .u-btn-8 {
@@ -64,10 +64,15 @@
   padding: 0;
 }
 
+.u-section-1 .u-btn-9 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-image-1 {
   width: 385px;
   height: 142px;
-  margin: 15px auto 0 364px;
+  margin: -10px auto 0 364px;
 }
 
 .u-section-1 .u-text-4 {
