@@ -54,17 +54,27 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-3 {
-  text-align: left;
-  margin: -778px 112px 0 364px;
-}
-
 .u-section-1 .u-btn-8 {
   background-image: none;
   padding: 0;
 }
 
 .u-section-1 .u-btn-9 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-align: left;
+  margin: -778px 112px 0 364px;
+}
+
+.u-section-1 .u-btn-10 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-11 {
   background-image: none;
   padding: 0;
 }
