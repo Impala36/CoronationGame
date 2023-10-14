@@ -1,2 +1,0 @@
-jQuery(document).ready(function(){var e=jQuery("#wpadminbar");e.length?jQuery("#sticky-header").sticky({topSpacing:e.height(),zIndex:"999"}):jQuery("#sticky-header").sticky({topSpacing:0,zIndex:"999"})});
-/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
