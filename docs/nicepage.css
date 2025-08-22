@@ -36915,18 +36915,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 90px;
-}
-
-.u-header .u-image-1 {
-  width: 219px;
-  height: 45px;
-  margin: 23px auto 0 50px;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
+  min-height: 65px;
 }
 
 .u-header .u-social-icons-1 {
@@ -36934,7 +36923,7 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 16px;
   width: 190px;
   min-width: 94px;
-  margin: -42px 50px 0 auto;
+  margin: 10px 50px 0 auto;
 }
 
 .u-header .u-icon-1 {
@@ -36953,10 +36942,21 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 
-.u-header .u-image-2 {
+.u-header .u-image-1 {
   width: 40px;
   height: 40px;
-  margin: -40px 252px 25px auto;
+  margin: -40px 250px 0 auto;
+}
+
+.u-header .u-logo-image-1 {
+  width: 100%;
+  height: 100%;
+}
+
+.u-header .u-image-2 {
+  width: 219px;
+  height: 45px;
+  margin: -40px auto 0 50px;
 }
 
 .u-header .u-logo-image-2 {
@@ -36968,58 +36968,55 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 144px;
   }
 
-  .u-header .u-image-1 {
-    width: 218px;
+  .u-header .u-social-icons-1 {
     margin-top: 30px;
   }
 
-  .u-header .u-social-icons-1 {
-    margin-top: -44px;
+  .u-header .u-image-1 {
+    margin-right: 252px;
   }
 
   .u-header .u-image-2 {
-    margin-right: 252px;
-    margin-bottom: 24px;
+    width: 218px;
+    margin-top: -40px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 135px;
-  }
-
-  .u-header .u-image-1 {
-    width: 218px;
-    margin-top: 45px;
-    margin-left: 43px;
+    min-height: 182px;
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: -42px;
+    margin-top: 100px;
     margin-right: 30px;
   }
 
-  .u-header .u-image-2 {
+  .u-header .u-image-1 {
     margin-right: 240px;
-    margin-bottom: 43px;
+  }
+
+  .u-header .u-image-2 {
+    width: 218px;
+    margin-top: -95px;
+    margin-left: 43px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 153px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 54px;
-    margin-left: 0;
+    min-height: 206px;
   }
 
   .u-header .u-social-icons-1 {
+    margin-top: 109px;
     margin-right: 32px;
   }
 
-  .u-header .u-image-2 {
+  .u-header .u-image-1 {
     margin-right: 230px;
-    margin-bottom: 57px;
+  }
+
+  .u-header .u-image-2 {
+    margin-left: 0;
   }
 }
 @media (max-width: 575px) {
@@ -37027,21 +37024,20 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 91px;
   }
 
-  .u-header .u-image-1 {
-    width: 218px;
-    margin-top: 0;
-    margin-left: auto;
-  }
-
   .u-header .u-social-icons-1 {
-    margin-top: 3px;
+    margin-top: 48px;
     margin-right: 49px;
   }
 
-  .u-header .u-image-2 {
+  .u-header .u-image-1 {
     margin-right: auto;
-    margin-bottom: 3px;
     margin-left: 49px;
+  }
+
+  .u-header .u-image-2 {
+    width: 218px;
+    margin-top: -88px;
+    margin-left: auto;
   }
 }
  .u-footer {
