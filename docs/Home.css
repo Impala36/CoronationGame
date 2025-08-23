@@ -511,7 +511,7 @@
 }
 
 .u-section-7 .u-repeater-1 {
-  min-height: 200px;
+  min-height: 150px;
   grid-template-columns: calc(50% - 25px) calc(50% - 25px);
   grid-gap: 50px 50px;
 }
