@@ -36993,19 +36993,19 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 118px;
+    min-height: 99px;
   }
 
   .u-header .u-image-1 {
     width: 218px;
-    margin-top: 14px;
+    margin-top: 5px;
     margin-left: auto;
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: 14px;
-    margin-right: auto;
+    margin-top: 5px;
     margin-bottom: 5px;
+    margin-right: auto;
   }
 }
  .u-footer {
