@@ -138,6 +138,14 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 41px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 64px;
+  }
 }
 
 .u-section-2 .u-image-2,
@@ -177,7 +185,7 @@
 }
 
 .u-section-3 .u-text-2 {
-  text-shadow: -2px -2px 8px rgba(0,0,0,1);
+  text-shadow: -2px 0 8px rgba(0,0,0,1);
   background-image: none;
   font-size: 1.125rem;
   width: 537px;
@@ -260,7 +268,7 @@
 }
 
 .u-section-4 .u-text-2 {
-  text-shadow: -2px -2px 8px rgba(128,128,128,1);
+  text-shadow: -2px -2px 8px rgba(0,0,0,1);
   background-image: none;
   font-size: 1.125rem;
   margin: 0 50px 60px 1170px;
