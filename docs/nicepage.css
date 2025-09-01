@@ -36595,8 +36595,8 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
-        --theme-sheet-width-xl: 1080px;
-        --theme-sheet-width-lg: 960px;
+        --theme-sheet-width-xl: 1440px;
+        --theme-sheet-width-lg: 1080px;
         --theme-sheet-width-md: 768px;
         --theme-sheet-width-sm: 540px;
         --theme-sheet-width-xs: 375px;
@@ -36918,9 +36918,9 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-social-icons-1 {
   height: 40px;
   min-height: 16px;
-  width: 390px;
-  min-width: 198px;
-  margin: 10px calc(((100% - 1140px) / 2)) 0 auto;
+  width: 440px;
+  min-width: 224px;
+  margin: 9px 0 0 auto;
 }
 
 .u-header .u-icon-1 {
@@ -36957,18 +36957,22 @@ a.u-link.u-text-hover-grey-90:hover {
   color: rgb(219, 83, 75) !important;
 }
 
+.u-header .u-icon-9 {
+  height: 100%;
+}
+
 .u-header .u-image-1 {
   width: 182px;
   height: 182px;
   background-image: url("images/CrownIcon3.png");
   background-position: 50% 50%;
-  margin: -159px 0 0;
+  margin: -159px auto 0 0;
 }
 
 .u-header .u-image-2 {
-  width: 219px;
-  height: 45px;
-  margin: -43px auto 0 calc(((100% - 1140px) / 2));
+  width: 206px;
+  height: 48px;
+  margin: -42px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -36976,68 +36980,52 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 @media (max-width: 1199px) {
-   .u-header {
-    min-height: 61px;
-  }
-
   .u-header .u-social-icons-1 {
-    margin-right: calc(((100% - 960px) / 2));
+    width: 390px;
+    min-width: 198px;
   }
 
   .u-header .u-image-2 {
     width: 218px;
-    margin-top: -41px;
-    margin-left: calc(((100% - 960px) / 2));
+    margin-top: -40px;
   }
 }
 @media (max-width: 991px) {
-   .u-header {
-    min-height: 60px;
-  }
-
-  .u-header .u-social-icons-1 {
-    margin-top: 9px;
-    margin-right: calc(((100% - 720px) / 2));
-  }
-
   .u-header .u-image-2 {
     width: 218px;
-    margin-top: -43px;
-    margin-left: calc(((100% - 720px) / 2));
+    margin-top: -42px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-social-icons-1 {
-    width: calc(((100% - 540px) / 2) + 340px);
-    margin-top: 10px;
-    margin-right: calc(((100% - 540px) / 2) + -40px);
+    margin-right: calc(((100% - 1440px) / 2) + 410px);
   }
 
   .u-header .u-image-2 {
-    margin-top: -41px;
-    margin-left: calc(((100% - 540px) / 2) + -40px);
+    margin-top: -40px;
+    margin-left: calc(((100% - 1440px) / 2) + 410px);
   }
 }
 @media (max-width: 575px) {
   .u-header .u-social-icons-1 {
-    width: 390px;
+    width: 440px;
+    min-width: 224px;
     margin-top: 10px;
-    margin-right: auto;
-    margin-left: 65px;
+    margin-right: calc(((100% - 375px) / 2) + -75px);
   }
 
   .u-header .u-image-1 {
     width: 40px;
     height: 40px;
-    margin-top: -40px;
-    margin-right: auto;
-    margin-left: 20px;
+    margin-top: -41px;
+    margin-bottom: 9px;
+    margin-left: calc(((100% - 375px) / 2) + -30px);
   }
 
   .u-header .u-image-2 {
     width: 218px;
-    margin-top: -159px;
-    margin-left: calc(((100% - 375px) / 2) + -40px);
+    margin-top: -42px;
+    margin-left: 0;
   }
 }
  .u-footer {
