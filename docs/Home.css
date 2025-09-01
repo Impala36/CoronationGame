@@ -31,7 +31,6 @@
 } .u-section-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/2025-08-21_20h39_41.png");
   background-position: 50% 50%;
-  background-size: auto 130%;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -70,6 +69,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-2 {
+    background-size: auto 130%;
+  }
+
   .u-section-2 .u-sheet-1 {
     min-height: 600px;
   }
@@ -178,7 +181,6 @@
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/2025-08-23_15h01_31.png");
   background-position: 50% 50%;
-  background-size: auto 110%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -202,6 +204,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-3 {
+    background-size: auto 110%;
+  }
+
   .u-section-3 .u-sheet-1 {
     min-height: 600px;
   }
@@ -260,7 +266,6 @@
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/2025-08-22_20h49_06.png");
   background-position: 50% 50%;
-  background-size: auto 110%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -282,6 +287,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-4 {
+    background-size: auto 110%;
+  }
+
   .u-section-4 .u-sheet-1 {
     min-height: 600px;
   }
@@ -344,7 +353,6 @@
 } .u-section-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/2025-08-22_21h05_52.png");
   background-position: 50% 50%;
-  background-size: auto 110%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -366,6 +374,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-5 {
+    background-size: auto 110%;
+  }
+
   .u-section-5 .u-sheet-1 {
     min-height: 600px;
   }
@@ -507,7 +519,6 @@
 } .u-section-7 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/2025-08-22_21h38_37.png");
   background-position: 50% 50%;
-  background-size: auto 110%;
 }
 
 .u-section-7 .u-sheet-1 {
@@ -583,6 +594,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-7 {
+    background-size: auto 110%;
+  }
+
   .u-section-7 .u-sheet-1 {
     min-height: 600px;
   }
