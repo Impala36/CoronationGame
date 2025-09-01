@@ -624,7 +624,6 @@
 
   .u-section-7 .u-repeater-1 {
     grid-template-columns: calc(50% - 25px) calc(50% - 25px);
-    grid-auto-columns: calc(50% - 25px);
   }
 }
 
